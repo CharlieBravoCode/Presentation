@@ -27,14 +27,15 @@ marp : true
 <!-- Access to Information -->
 <!-- Pro -->
 
-![bg right](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg right](https://images.pexels.com/photos/3761513/pexels-photo-3761513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">What is your favorite example of positive impact coming from digital technologies?</p><br>
 
 ##  <span style="color:blue;">Access to Information</span>
 
-- 24/7 on the internet
-- discover, learn new skills
+- More sources of knowledge and learning
+- Easier and faster access to data and facts
+- Increased transparency and accountability
 
 ### Online courses, e-books, podcasts, etc
 
@@ -45,16 +46,17 @@ marp : true
 <!-- Access to Information -->
 <!-- Con -->
 
-![bg left](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg left](https://images.pexels.com/photos/3951350/pexels-photo-3951350.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">What is your favorite example of positive impact coming from digital technologies?</p><br>
 
 ## <span style="color:red;">Access to Information</span>
 
-- ...
-- ...
+- Information overload and distraction
+- Misinformation and fake news
+- Privacy and security risks
 
-### La la la
+### Social media, phishing scams, data leaks, etc.
 
 ---
 
@@ -63,14 +65,15 @@ marp : true
 <!-- Communication -->
 <!-- Pro -->
 
-![bg right](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg right](https://images.pexels.com/photos/4031820/pexels-photo-4031820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">What is your favorite example of positive impact coming from digital technologies?</p><br>
 
 ## <span style="color:blue;">Communication </span>
 
-- across any distance
-- stay connected with friends and family
+- More ways to connect and collaborate with others
+- Reduced barriers of distance and time
+- Enhanced social inclusion and participation
 
 ### Free global video chat
 
@@ -81,16 +84,17 @@ marp : true
 <!-- Communication -->
 <!-- Con -->
 
-![bg left](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg left](https://images.pexels.com/photos/821948/pexels-photo-821948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">What is your favorite example of positive impact coming from digital technologies?</p><br>
 
 ## <span style="color:red;">Communication</span>
 
-- ...
-- ...
+- Loss of face-to-face interaction and empathy
+- Cyberbullying and harassment
+- Digital divide and inequality
 
-### La la la
+### Social media, instant messaging, etc
 
 ---
 
@@ -99,16 +103,16 @@ marp : true
 <!-- Global Travel -->
 <!-- Pro -->
 
-![bg right](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg right](https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">What is your favorite example of positive impact coming from digital technologies?</p><br>
 
 ## <span style="color:blue;">Global Travel</span>
 
-- Magic tool: Smartphone
-- phone, camera, calculator, bank, etc
+- More opportunities to explore new places and cultures
+- Improved mobility and convenience
 
-## Tools for our Minds
+## Online booking platforms, flight comparison websites 
 
 
 ---
@@ -117,16 +121,17 @@ marp : true
 <!-- Global Travel -->
 <!-- Con -->
 
-![bg left](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg left](https://images.pexels.com/photos/2042606/pexels-photo-2042606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">What is your favorite example of positive impact coming from digital technologies?</p><br>
 
 ## <span style="color:red;">Global Travel </span>
 
-- ...
-- ...
+- Overcrowding and overconsumption of resources
+- Loss of local identity and diversity
+- Increased exposure to diseases and disasters
 
-### La la la la
+### Over-tourism, pollution, pandemics.
 
 ---
 
@@ -135,16 +140,17 @@ marp : true
 <!-- Medical Advancement -->
 <!-- Pro -->
 
-![bg right](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg right](https://images.pexels.com/photos/3844581/pexels-photo-3844581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">What is your favorite example of positive impact coming from digital technologies?</p><br>
 
 ## <span style="color:blue;">Medical Advancement</span>
 
-- ...
-- ...
+- More accurate diagnosis and treatment of diseases
+- Better prevention and management of health conditions
+- Enhanced quality of life and longevity  
 
-## La la la
+## Medical imaging, genetic testing & tailored medicine
 
 ---
 
@@ -153,16 +159,17 @@ marp : true
 <!-- Medical Advancement -->
 <!-- Con -->
 
-![bg left](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg left](https://images.pexels.com/photos/320442/pexels-photo-320442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">What is your favorite example of positive impact coming from digital technologies?</p><br>
 
 ## <span style="color:red;">Medical Advancement</span>
 
-- ...
-- ...
+- Ethical dilemmas and social implications 
+- Accessibility gaps between rich vs poor countries 
+- Dependence on technology
 
-### La la la la la 
+### Genetic engineering, Pharma, Robotics
 
 ---
 <!-- ----------------------------------------------------------------------------- -->
@@ -188,16 +195,17 @@ marp : true
 <!-- Convenience -->
 <!-- Pro -->
 
-![bg right](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg right](https://images.unsplash.com/photo-1581547848331-0aba76655842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">Can technology replace face to face interaction in education and other social settings? If not, what kinds of limits can you identify?</p><br>
 
 ## <span style="color:blue;">Convenience</span>
 
-- ...
-- ...
+- saves money, time, resources
+- less physical barrieres
+- async learning
 
-## La la la
+### Videoconferencing, webinars, online forums, games
 
 
 ---
@@ -206,16 +214,17 @@ marp : true
 <!-- Convenience -->
 <!-- Con -->
 
-![bg left](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg left](https://images.unsplash.com/photo-1486182706240-e597091e0cfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">Can technology replace face to face interaction in education and other social settings? If not, what kinds of limits can you identify?</p><br>
 
 ## <span style="color:red;">Convenience</span>
 
-- ...
-- ...
+- distractions
+- delays
+- technical barriers
 
-### La la la
+### Zoom fatigue, lack of social skills, digital divide
 
 ---
 <!-- ----------------------------------------------------------------------------- -->
@@ -223,16 +232,19 @@ marp : true
 <!-- Accessibility -->
 <!-- Pro -->
 
-![bg right](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg right](https://images.unsplash.com/photo-1584697964190-7383cbee8277?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">Can technology replace face to face interaction in education and other social settings? If not, what kinds of limits can you identify?</p><br>
 
 ## <span style="color:blue;">Accessibility</span>
 
-- ...
-- ...
+- enhance learning
+- innovation
+- collaboration across different backgrounds/expertise/perspectives
 
-## La la la
+### Online learning, MOOCs, online communities, social media
+
+
 
 
 ---
@@ -241,7 +253,7 @@ marp : true
 <!-- Accessibility -->
 <!-- Con -->
 
-![bg left](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg left](https://images.unsplash.com/photo-1618590067824-5ba32ca76ce9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">Can technology replace face to face interaction in education and other social settings? If not, what kinds of limits can you identify?</p><br>
 
@@ -251,7 +263,9 @@ marp : true
 - misinformation
 - digital divide
 
-### La la la
+### Fake knwoladge, cyberbullying, digital divide
+
+
 
 ---
 <!-- ----------------------------------------------------------------------------- -->
@@ -259,17 +273,17 @@ marp : true
 <!-- Diversity -->
 <!-- Pro -->
 
-![bg right](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg right](https://images.unsplash.com/photo-1515187029135-18ee286d815b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">Can technology replace face to face interaction in education and other social settings? If not, what kinds of limits can you identify?</p><br>
 
 ## <span style="color:blue;">Diversity</span>
 
-- can support creativity
+- support creativity
 - personalization
 - new forms of interactions
 
-## La la la
+### YouTube, podcasts, "Talks"& Panels
 
 
 ---
@@ -278,7 +292,7 @@ marp : true
 <!-- Diversity -->
 <!-- Con -->
 
-![bg left](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)
+![bg left](https://images.unsplash.com/photo-1585974738771-84483dd9f89f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1072&q=80)
 
 <p style="font-size: 20px; font-weight: bold; text-align: center;">Can technology replace face to face interaction in education and other social settings? If not, what kinds of limits can you identify?</p><br>
 
@@ -288,7 +302,7 @@ marp : true
 - reduces emotions
 - less context
 
-### La la la
+### Learning is more then "Knowledge", "Skills", "Attitudes"
 
 ---
 <!-- ----------------------------------------------------------------------------- -->
